@@ -270,6 +270,7 @@ span{
 }
 .education h2{
     margin-bottom: 5rem;
+    text-decoration-color: aliceblue;
 }
 .timeline-items{
     max-width: 1200px;
@@ -400,7 +401,7 @@ span{
 }
 .project-item:hover{
     border: 3px solid var(--main-color);
-    transform: translateY(-10px)scale(1.03);
+    transform: translateY(-4px)scale(1.00);
     box-shadow: 0 0 50px var(--main-color);
 }
 .project-item h2{
