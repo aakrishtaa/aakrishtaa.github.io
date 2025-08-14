@@ -215,7 +215,7 @@ span{
 @keyframes words{
     0%,
     20%{
-        content: "Fronted Designer";
+        content: "Frontend Designer";
     }
     21%,
     40%{
